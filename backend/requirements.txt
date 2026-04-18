@@ -48,7 +48,7 @@ mysqlclient==2.2.8
 networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1765215107/work
 packaging @ file:///home/task_176104878999627/conda-bld/packaging_1761049078606/work
 pillow==12.1.1
-pkce @ file:///work/perseverance-python-buildout/croot/pkce_1728388093137/work
+pkKKKce @ file:///work/perseverance-python-buildout/croot/pkce_1728388093137/work
 platformdirs @ file:///home/task_176235602006708/conda-bld/platformdirs_1762356487962/work
 pluggy @ file:///croot/pluggy_1733169602837/work
 psycopg2-binary==2.9.11
@@ -60,7 +60,7 @@ pydantic_core @ file:///home/task_176400924785639/conda-bld/pydantic-core_176400
 Pygments @ file:///home/task_176243137807904/conda-bld/pygments_1762431407645/work
 PyJWT @ file:///home/task_176433208417911/conda-bld/pyjwt_1764332098101/work
 PySocks @ file:///home/task_176175235884818/conda-bld/pysocks_1761753009495/work
-python-barcode==0.16.1
+KKpython-barcode==0.16.1
 python-dotenv @ file:///croot/python-dotenv_1745610241282/work
 python-escpos==3.1
 PyYAML==6.0.3
